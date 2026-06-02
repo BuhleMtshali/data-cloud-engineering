@@ -156,3 +156,87 @@ C:\Users\Buhle\Documents
 - Same Unix DNA.
 
 - Different drip ✨🍏
+
+## 🔹 Processes: Tiny Workers Inside The Machine 🏃
+
+- A process is simply:
+
+> A running program.
+
+- Examples:
+
+    - Chrome 🌐
+
+    - Spotify 🎵
+
+    - VS Code 💻
+
+    - Python Scripts 🐍
+
+- Every operating system has tools to monitor and manage these digital workers.
+
+
+## 🪟 Windows
+
+- Tools:
+
+```
+tasklist
+taskkill
+
+```
+- GUI:
+
+### 🖥️ Task Manager
+
+- The place where frozen applications go to meet their ancestors ☠️
+
+## 🐧 Linux
+
+- Tools:
+
+```
+ps
+top
+htop
+kill
+
+```
+
+- Linux admins spend so much time in htop that it practically becomes a second home 😭
+
+
+## 🍎 macOS
+
+- Uses:
+
+```
+ps
+top
+kill
+
+```
+
+- GUI:
+
+> ***🍏 Activity Monitor***
+
+- Apple's version of Task Manager.
+
+## 🔹 Logs: The Digital Receipt Book 🧾🔥
+
+- Logs answer the questions:
+
+    - Who did what?
+
+    - When did they do it?
+
+    - Where did they do it from?
+
+    - What exploded?
+
+- Security teams live and breathe logs.
+
+- No logs = no receipts.
+
+- No receipts = pain. 😭
