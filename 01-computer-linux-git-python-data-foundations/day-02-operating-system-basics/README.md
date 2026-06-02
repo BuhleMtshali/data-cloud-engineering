@@ -321,3 +321,75 @@ brew install git
 ```
 
 - Homebrew might be one of the most beloved developer tools ever created 🍺
+
+
+# 💻 Mini Project: Operating System Battle Royale ⚔️
+
+## 📖 Description
+
+- Created a comparison matrix documenting the major differences between:
+
+    - 🪟 Windows
+
+    - 🐧 Linux
+
+    - 🍎 macOS
+
+- The comparison focused on:
+
+    - Filesystem layouts
+
+    - Process management
+
+    - Logging systems
+
+    - Package managers
+
+    - Administrative workflows
+
+- The goal was to understand which operating systems dominate different environments and why Linux is the king of cloud infrastructure 👑☁️
+
+## 📊 Key Discovery
+
+- The biggest surprise today:
+
+- Linux is basically everywhere.
+
+    - ☁️ Cloud Servers
+
+    - 📦 Containers
+
+    - ⚡ Spark Clusters
+
+    - 📊 Data Platforms
+
+    - 🔐 Security Appliances
+
+    - 🚀 Kubernetes Nodes
+
+- The deeper I go into Data Engineering and Cloud Security, the more Linux keeps showing up like the final boss of infrastructure 😭🐧
+
+
+## 🛡️ Security Relevance
+
+- This topic connects directly to cloud security.
+
+- Security teams investigate things like:
+
+    - 🔐 Failed logins
+
+    - 👤 User activity
+
+    - ⚙️ Service failures
+
+    - 🚨 Suspicious processes
+
+    - 🌐 Network connections
+
+    - 📜 Authentication events
+
+- All of those leave traces inside operating systems.
+
+- Learning operating systems means learning where the evidence lives.
+
+- And evidence is everything in security 🕵🏽‍♂️🧾
