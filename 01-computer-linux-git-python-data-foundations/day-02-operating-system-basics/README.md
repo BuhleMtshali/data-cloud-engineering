@@ -32,4 +32,127 @@ Exist peacefully
 
 - Today was basically:
 
-    - Learn the kingdom before defending the castle 🏰🔐
+    > ***Learn the kingdom before defending the castle 🏰🔐***
+
+## 🎯 Objectives
+
+- By the end of today I wanted to:
+
+    - ✅ Understand what an operating system actually does
+
+    - ✅ Compare Windows, Linux, and macOS architectures
+
+    - ✅ Learn how each operating system organizes files
+
+    - ✅ Explore process management and monitoring tools
+
+    - ✅ Understand where logs live and why they matter
+
+    - ✅ Learn how software gets installed through package managers
+
+    - ✅ Connect operating system concepts to cloud infrastructure and security operations
+
+
+## 🧠 Key Concepts
+
+### 🔹 What Even Is An Operating System?
+
+- Think of an operating system as the manager of a very busy company 🏢
+
+- The employees are:
+
+    - CPU ⚡
+
+    - RAM 🧠
+
+    - Storage 💾
+
+    - Network Interfaces 🌐
+
+    - Applications 📱
+
+- The operating system makes sure everyone gets work, nobody fights over resources, and the whole company doesn't burst into flames.
+
+- Without an operating system you'd basically have to speak directly to hardware.
+
+- And trust me...
+
+- Nobody wants that smoke 😭
+
+😭
+
+## 🔹 Filesystems: The City's Street Map 🗺️
+
+- A filesystem determines where everything lives.
+
+### 🪟 Windows
+
+- Windows likes drive letters
+
+```
+C:\
+D:\
+E:\
+
+```
+
+- Example:
+
+```
+C:\Users\Buhle\Documents
+
+```
+
+- Windows looked at storage and said:
+
+    > "Alphabet. We ride at dawn." 🔤⚔️
+
+### 🐧 Linux
+
+- Linux looked at drive letters and said:
+
+    >"Nah."
+
+- Everything starts from:
+
+```
+/
+
+```
+
+- The root directory.
+
+```
+/
+├── home
+├── etc
+├── var
+├── usr
+└── tmp
+
+```
+
+- Example:
+
+```
+/home/buhle/projects
+
+```
+
+- Linux filesystems feel like one giant tree 🌳
+
+
+### 🍎 macOS
+
+- macOS secretly copied Linux's homework.
+
+- Example:
+
+```
+/Users/buhle/Documents
+
+```
+
+- Same Unix DNA.
+
+- Different drip ✨🍏
