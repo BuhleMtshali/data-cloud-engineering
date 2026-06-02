@@ -273,3 +273,51 @@ kill
 ```
 
 - The sacred scrolls of Linux 🔮🐧
+
+### 🍎 macOS
+
+- Uses:
+
+### 🍏 Console
+
+- Or:
+
+```bash
+
+log show
+
+```
+
+## 🔹 Package Managers: Installing Software Like A Wizard 🧙
+
+- Imagine downloading software manually every time.
+
+- Absolutely not.
+
+- We have standards.
+
+### 🪟 Windows
+
+```powershell
+
+winget install vscode
+
+```
+
+### 🐧 Linux
+
+```bash
+
+sudo apt install nginx
+
+```
+
+### 🍎 macOS
+
+```bash
+
+brew install git
+
+```
+
+- Homebrew might be one of the most beloved developer tools ever created 🍺
