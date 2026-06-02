@@ -240,3 +240,36 @@ kill
 - No logs = no receipts.
 
 - No receipts = pain. 😭
+
+## 🪟 Windows
+
+- Uses:
+
+### 📜 Event Viewer
+
+- Contains:
+
+    - Application Logs
+
+    - System Logs
+
+    - Security Logs
+
+
+## 🐧 Linux
+
+- Usually stored in:
+
+```
+/var/log
+
+```
+- Examples:
+
+```
+/var/log/auth.log
+/var/log/syslog
+
+```
+
+- The sacred scrolls of Linux 🔮🐧
