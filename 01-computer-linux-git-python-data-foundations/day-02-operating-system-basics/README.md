@@ -349,6 +349,24 @@ brew install git
 
 - The goal was to understand which operating systems dominate different environments and why Linux is the king of cloud infrastructure 👑☁️
 
+## 🛠 Tools & Commands Used
+
+| 🛠️ Tool / Command | 🎯 Purpose                                              | 💻 Example               |
+| ------------------ | ------------------------------------------------------- | ------------------------ |
+| `tasklist`         | View running processes on Windows                       | `tasklist`               |
+| `taskkill`         | Stop a running process on Windows                       | `taskkill /PID 1234 /F`  |
+| `ps`               | Display running processes                               | `ps aux`                 |
+| `top`              | Monitor processes in real time                          | `top`                    |
+| `htop`             | Interactive process monitoring with a cleaner interface | `htop`                   |
+| `kill`             | Stop a running process                                  | `kill 1234`              |
+| `winget`           | Install software on Windows                             | `winget install vscode`  |
+| `apt`              | Install and manage software packages on Ubuntu/Debian   | `sudo apt install nginx` |
+| `brew`             | Install and manage software packages on macOS           | `brew install git`       |
+| `systemctl`        | Manage Linux services and daemons                       | `systemctl status nginx` |
+| `journalctl`       | View and search Linux service logs                      | `journalctl -u nginx`    |
+
+
+
 ## 📊 Key Discovery
 
 - The biggest surprise today:
@@ -393,3 +411,49 @@ brew install git
 - Learning operating systems means learning where the evidence lives.
 
 - And evidence is everything in security 🕵🏽‍♂️🧾
+
+## 🔗 Key Takeaways
+
+🔥 Every application runs on top of an operating system
+
+🔥 Filesystems determine how data is organized
+
+🔥 Processes are running programs
+
+🔥 Logs are the ultimate receipt book
+
+🔥 Package managers make software installation easier
+
+🔥 Linux dominates cloud and data engineering environments
+
+🔥 Understanding operating systems helps explain how cloud infrastructure actually works
+
+
+## 🧠 Reflection
+
+- Today completely changed how I think about operating systems.
+
+- I used to see Windows, Linux, and macOS as different user experiences.
+
+- Now I see them as different approaches to managing hardware, files, processes, software, and system resources.
+
+- The biggest takeaway was realizing how deeply Linux is embedded into cloud infrastructure, modern data platforms, and security tooling.
+
+- The deeper I go into this roadmap, the more Linux feels less like an operating system and more like a mandatory side quest 🐧⚔️
+
+
+## 🚀 Next Steps
+
+➡️ Linux Navigation
+
+➡️ Files and Directories
+
+➡️ Users and Groups
+
+➡️ Permissions
+
+➡️ Shell Commands
+
+➡️ Terminal Survival Skills
+
+> ***Time to leave the GUI comfort zone and start speaking fluent penguin 🐧🔥***
