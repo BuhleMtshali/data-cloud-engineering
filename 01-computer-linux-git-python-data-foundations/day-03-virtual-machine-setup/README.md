@@ -365,17 +365,6 @@ The snapshot rollback test was especially valuable because it highlighted how vi
 
 ---
 
-## 📸 Screenshots Collected
-
-| Screenshot   | Description                              |
-| ------------ | ---------------------------------------- |
-| Screenshot 1 | Ubuntu desktop after installation        |
-| Screenshot 2 | System updates using apt                 |
-| Screenshot 3 | Shared folder visible in Ubuntu          |
-| Screenshot 4 | Snapshot creation screen                 |
-| Screenshot 5 | rollback-test.txt before restore         |
-| Screenshot 6 | rollback-test.txt removed after rollback |
-
 ---
 
 ## 🏁 Conclusion
