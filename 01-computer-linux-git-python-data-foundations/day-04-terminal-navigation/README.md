@@ -776,11 +776,18 @@ This made `data-platform` my current working directory.
 
 ---
 
+## 📸 Screenshot
+
+![alt text](image.png)
+
 ## Step 2 – Created the main folders
 
 ```bash
 mkdir raw staged curated logs scripts configs docs
 ```
+## 📸 Screenshot
+
+![alt text](image-1.png)
 
 This created all the required folders for the data platform.
 
@@ -822,6 +829,10 @@ It had actual placeholder artifacts.
 
 ---
 
+## 📸 Screenshot
+
+![alt text](image-2.png)
+
 ## Step 4 – Added fake raw authentication data
 
 ```bash
@@ -841,6 +852,10 @@ Example meaning:
 This is the kind of data that security teams might analyze to understand user activity.
 
 ---
+
+## 📸 Screenshot
+
+![alt text](image-3.png)
 
 ## Step 5 – Added fake firewall log data
 
@@ -867,6 +882,10 @@ Fields:
 This helped me connect Linux commands to security log data.
 
 ---
+
+## 📸 Screenshot
+
+![alt text](image-4.png)
 
 ## Step 6 – Added pipeline configuration
 
