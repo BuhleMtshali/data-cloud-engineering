@@ -1,10 +1,10 @@
-# 🔐 Day 4 – Linux File Permissions, Users & Shared Data Access
+# 🔐 Day 5 – Linux File Permissions, Users & Shared Data Access
 
 ## What I Did Today 🚀
 
 Today was all about learning how Linux controls access to files, folders, and users like a tiny security kingdom 🐧🔐
 
-The official Day 4 task was:
+The official Day 5 task was:
 
 > **Create analyst, engineer, and service users; make shared data folders with correct read/write permissions and document access tests.**
 
@@ -810,7 +810,7 @@ Linux permissions are basically security policy written into the filesystem.
 
 # 🏆 What I Can Do Now
 
-After Day 4, I can:
+After Day 5, I can:
 
 ✅ Create Linux users for different roles
 
