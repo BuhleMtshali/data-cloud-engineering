@@ -1256,7 +1256,7 @@ Now I understand that CSV files can break in very specific ways:
 - quotes can confuse parsers
 - Unicode can corrupt if encoding is wrong
 - line endings can hide invisible characters
-- mixed formatting can create inconsistent bugs
+- mixed formatting can create inconsistent bugs.
 
 This day taught me that data engineering is not only about building pipelines.
 
